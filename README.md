@@ -7,7 +7,7 @@
 
 По результатам опроса, представляется статистика.
 
-Использованный стек технологий: J2EE / Java 8 / Spring Boot / Security / Data-JPA / Stream API / PostgreSQL / RESTful API / Lombok / MDBootstrap (css/js) / jQuery + plugins
+Использованный стек технологий: J2EE / Java 8 / Spring Boot / Security / Data-JPA / Stream API / PostgreSQL / RESTful API / Lombok / JUnit / MDBootstrap (css/js) / jQuery + plugins
 
 ### Главная страница с активными опросами  
 ![image](01.png)
